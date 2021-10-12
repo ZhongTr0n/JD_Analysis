@@ -1,6 +1,6 @@
 {
   "nodes": [
-    {"id": "A", "color": 1, "group":0},
+    {"id": "AAAA", "color": 1, "group":0},
     {"id": "B", "color": 1, "group":0},
     {"id": "C", "color": 1, "group":0},
     {"id": "D", "color": 1, "group":0},
@@ -20,9 +20,9 @@
     ],
   
   "links": [
-    {"source": "A", "target": "B", "value": 5, "group":0},
-    {"source": "A", "target": "C", "value": 5, "group":0},
-    {"source": "A", "target": "D", "value": 5, "group":0},
+    {"source": "AAAA", "target": "B", "value": 5, "group":0},
+    {"source": "AAAA", "target": "C", "value": 5, "group":0},
+    {"source": "AAAA", "target": "D", "value": 5, "group":0},
     {"source": "B", "target": "E", "value": 5, "group":0},
     {"source": "F", "target": "G", "value": 5, "group":1},
     {"source": "G", "target": "H", "value": 5, "group":1},
